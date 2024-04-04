@@ -1,4 +1,4 @@
-<img align="right" alt="coding" width="1000" height="470" src="https://camo.githubusercontent.com/c83823bc629deddcb8a6bcdb268f79098de4061f277a06b0bfaffc544e8889db/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f66732f3831626234623136353638343031392e363430623630333864313333652e676966"/>
+<img align="right" alt="coding" width="1000" height="470" src="https://i.redd.it/bpxxqqvps4h91.gif"/>
 <br/>
 <h1 align="center">Hi 👋, I'm Rigan Paul</h1>
 <h3 align="center">A passionate software developer from Bangladesh</h3>
