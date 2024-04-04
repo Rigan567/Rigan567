@@ -30,7 +30,7 @@
 </br>
 <div>
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=rigan567&show_icons=true&locale=en" alt="rigan567" />
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rigan567&show_icons=true&locale=en&layout=compact" alt="rigan567" width="500" height="200" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rigan567&show_icons=true&locale=en&layout=compact" alt="rigan567" width="400" height="200" />
 </div>
 
 
