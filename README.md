@@ -1,5 +1,3 @@
-<img align="right" alt="coding" width="1000" height="470" src="https://i.redd.it/bpxxqqvps4h91.gif"/>
-<br/>
 <h1 align="center">Hi 👋, I'm Rigan Paul</h1>
 <h3 align="center">A passionate software developer from Bangladesh</h3>
 <br/>
